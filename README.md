@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Poulomi Roy
-- 👀 I am an Software Test Engineer
-- 🌱 I’m currently learning Security Testing
-- 📫 How to reach me proy14268@gmail.com
-Coonect with me  www.linkedin.com/in/poulomi-roy-154587196
-- 😄 Pronouns: POU-LO-MI
-- ⚡ Fun fact: ...I like to find bugs and automate the scripts
+# 👋 Hi, I’m Poulomi Roy
 
-Languages and Tools:
-cypress java javascript jenkins mysql nodejs selenium
+💻 I’m a **Software Test Engineer**  
+🔐 Currently diving into **Security Testing**  
+📧 Reach me at: [proy14268@gmail.com](mailto:proy14268@gmail.com)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/poulomi-roy-154587196)  
+🗣️ Pronunciation: **POU-LO-MI**  
+⚡ **Fun Fact:** I love finding bugs 🐞 and automating scripts 🤖
+
+---
+
+## 🛠️ Languages & Tools
+
+- 🌐 [Cypress] 
+- ☕ [Java]
+- ✨ [JavaScript]
+- 🔧 [Jenkins] 
+- 🛢️ [MySQL]  
+- 🟩 [Node.js]
+- 🧪 [Selenium]
+
